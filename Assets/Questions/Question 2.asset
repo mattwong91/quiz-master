@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: In the terminal, what is the command `mkdir` used for?
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - Mark directory
+  - Memory kill direction
+  - Make directory
+  - Make dirt
+  correctAnswerIndex: 2

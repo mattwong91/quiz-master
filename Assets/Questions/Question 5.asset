@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: What is a 400 HTTP error?
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - Not Found
+  - Forbidden
+  - Bad Request
+  - Internal Server Error
+  correctAnswerIndex: 2
